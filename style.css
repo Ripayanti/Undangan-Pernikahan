@@ -330,7 +330,7 @@ body {
   border: 1px solid var(--pink);
 }
 
-.rsvp button::hover {
+.rsvp button:hover {
   background-color: white;
   color: var(--pink);
   border: 1px solid white;
